@@ -17,6 +17,7 @@
 		EF9CC56E299CF131004B9D13 /* Squiggle.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF9CC56D299CF131004B9D13 /* Squiggle.swift */; };
 		EF9CC572299D3D88004B9D13 /* AspectVGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF9CC571299D3D88004B9D13 /* AspectVGrid.swift */; };
 		EF9CC574299E66D4004B9D13 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF9CC573299E66D4004B9D13 /* CardView.swift */; };
+		EFEEAD0129A393B800C955C2 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = EFEEAD0029A393B800C955C2 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		EF9CC56D299CF131004B9D13 /* Squiggle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Squiggle.swift; sourceTree = "<group>"; };
 		EF9CC571299D3D88004B9D13 /* AspectVGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AspectVGrid.swift; sourceTree = "<group>"; };
 		EF9CC573299E66D4004B9D13 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		EFEEAD0029A393B800C955C2 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +49,7 @@
 		EF86477B299A341C00FEE8BD = {
 			isa = PBXGroup;
 			children = (
+				EFEEAD0029A393B800C955C2 /* .gitignore */,
 				EF864786299A341C00FEE8BD /* SetCardGame */,
 				EF864785299A341C00FEE8BD /* Products */,
 			);
@@ -144,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EF86478F299A341D00FEE8BD /* Preview Assets.xcassets in Resources */,
+				EFEEAD0129A393B800C955C2 /* .gitignore in Resources */,
 				EF86478C299A341D00FEE8BD /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
